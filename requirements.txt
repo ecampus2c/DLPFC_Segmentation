@@ -1,0 +1,7 @@
+tensorflow>=2.10
+numpy
+nibabel
+simpleitk
+patchify
+scipy
+matplotlib

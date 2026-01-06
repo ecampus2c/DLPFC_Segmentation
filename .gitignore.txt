@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+dataset/
+preproc/
+models/
+preds/
+logs/
