@@ -1,3 +1,7 @@
+> **This is an early version of the project and is no longer maintained.**
+> The current code, trained models (TensorFlow/Keras and PyTorch), results and live demo are in
+> **[ecampus2c/lightweight-3d-unet-dlpfc](https://github.com/ecampus2c/lightweight-3d-unet-dlpfc)**.
+
 3D DLPFC Segmentation for TMS Navigation
 
 A lightweight, automated Deep Learning pipeline for segmenting the Dorsolateral Prefrontal Cortex (DLPFC) from structural MRI scans. Designed for small datasets and consumer-grade hardware.
